@@ -24,7 +24,7 @@ describe('Pruebas en <GifGrid/>', ()=>{
 
         const gifs=[{
             id: 'ABC',
-            url: 'https://localhost/url/prueba.jpg',
+            img: 'https://localhost/url/prueba.jpg',
             title: 'Cualquier cosa'
         }];
 

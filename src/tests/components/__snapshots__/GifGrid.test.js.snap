@@ -30,9 +30,9 @@ exports[`Pruebas en <GifGrid/> Debe demostrar items cuando se cargan imágenes c
   >
     <GifGridItem
       id="ABC"
+      img="https://localhost/url/prueba.jpg"
       key="ABC"
       title="Cualquier cosa"
-      url="https://localhost/url/prueba.jpg"
     />
   </div>
 </Fragment>
